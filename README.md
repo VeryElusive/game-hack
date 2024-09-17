@@ -8,7 +8,7 @@ And doesn't even begin to detail the amount of time and effort that went into re
 Alongside the cheat, code which I will not publish as it is still being used in other pay cheat software and exploits windows vulnerabilities, I coded a DLL loader in modern C++, which loads the cheat into the game. 
 In tandem with this, I also coded a server backend, and kernel driver (both also in modern C++), and I also created a website with Xenforo forum software.
 
-NOTE: I have remove all the code that is not mine (including the valve SDK stuff, even though I reverse engineered it all myself), as I want this to be a showcase of MY programming talent.
+NOTE: I have remove all the code that is not mine (including the valve SDK stuff, even though I reverse engineered it all myself), as I want this to be a showcase of MY code.
 
 Below is a showcase of the hack (also includes a video of the website, loader client and loader server backend):
 
@@ -21,5 +21,9 @@ https://www.youtube.com/watch?v=b2Wo94pWsvY
 https://www.youtube.com/watch?v=r-kCEpn25F4
 
 https://www.youtube.com/watch?v=dfzKQ-y11KE
+
+https://www.youtube.com/watch?v=tWtG3KpCSWU&t
+
+You can also search "Havoc hvh" or "wreakhavoc.online hvh" on youtube for many more videos
 
 Thank you for viewing :-)
