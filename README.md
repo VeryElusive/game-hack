@@ -1,6 +1,6 @@
 This is my game cheat for the game Counter-Strike:Global Offensive (year 2023).
 
-It was created for my game hacking business, Havoc (under the website wreakhavoc.online). With plenty of success, it became one of the most competitive cheats in the scene. 
+It was created for my game hacking business, Havoc (under the website wreakhavoc.online). With plenty of success, it became a highly competitive cheat in the scene. 
 
 All of the 23,560 lines of code featured in this project were written by me (unless I forgot to remove some), in modern C++.
 And doesn't even begin to detail the amount of time and effort that went into reverse engineering the game.
